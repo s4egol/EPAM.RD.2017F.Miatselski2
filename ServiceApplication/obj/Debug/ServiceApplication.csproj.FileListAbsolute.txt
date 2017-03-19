@@ -1,0 +1,8 @@
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.exe.config
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\obj\Debug\ServiceApplication.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.exe
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\ServiceApplication.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\MyServiceLibrary.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\bin\Debug\MyServiceLibrary.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\obj\Debug\ServiceApplication.exe
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\ServiceApplication\obj\Debug\ServiceApplication.pdb

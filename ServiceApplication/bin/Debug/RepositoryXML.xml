@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StateOfService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListOfUsers>
+    <User>
+      <Id>1</Id>
+      <FirstName>Ivan</FirstName>
+      <LastName>Metelsky</LastName>
+      <DateOfBirth>2017-03-17T12:49:57.2900781+03:00</DateOfBirth>
+    </User>
+  </ListOfUsers>
+  <GeneratorId>1</GeneratorId>
+</StateOfService>

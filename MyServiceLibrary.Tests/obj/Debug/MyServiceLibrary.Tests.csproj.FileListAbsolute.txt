@@ -1,0 +1,8 @@
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\obj\Debug\MyServiceLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\bin\Debug\MyServiceLibrary.Tests.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\bin\Debug\MyServiceLibrary.Tests.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\bin\Debug\MyServiceLibrary.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\bin\Debug\MyServiceLibrary.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\obj\Debug\MyServiceLibrary.Tests.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day1\SampleService\MyServiceLibrary.Tests\obj\Debug\MyServiceLibrary.Tests.pdb
